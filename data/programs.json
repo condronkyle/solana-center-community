@@ -1,0 +1,498 @@
+[
+  {
+    "id": "jurisdiction-organics",
+    "title": "SB 1383 support for jurisdictions",
+    "theme": "organics",
+    "audiences": [
+      "jurisdictions"
+    ],
+    "summary": "Plan organics education, food recovery inspections, business support, and reporting with a local program partner.",
+    "offerings": [
+      "Food recovery inspections and capacity planning",
+      "Business education and technical help",
+      "Reporting and record keeping",
+      "Community outreach"
+    ],
+    "nextStep": "Discuss your jurisdiction, service scope, and contract needs with the Environmental Solutions team.",
+    "ctaLabel": "Explore jurisdiction services",
+    "sourceTitle": "Government Programs",
+    "statusNote": "Services are arranged with jurisdictions. Coverage and scope depend on the contract.",
+    "ctaUrl": "https://www.solanacenter.org/government-programs",
+    "sourceUrl": "https://www.solanacenter.org/government-programs",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Government Programs",
+        "url": "https://www.solanacenter.org/government-programs"
+      }
+    ]
+  },
+  {
+    "id": "business-organics",
+    "title": "Business organics and food recovery help",
+    "theme": "organics",
+    "audiences": [
+      "businesses"
+    ],
+    "summary": "Get guidance on organics recycling and edible food recovery. Access bilingual resources and help with local SB 1383 procedures.",
+    "offerings": [
+      "On-site, phone, and email assistance",
+      "English and Spanish guides",
+      "Record keeping resources",
+      "Correction forms for inspected businesses"
+    ],
+    "nextStep": "Contact the SB 1383 team to confirm service coverage for your business and city.",
+    "ctaLabel": "Find business support",
+    "sourceTitle": "SB 1383 Compliance",
+    "statusNote": "Solana Center works under city contracts. Confirm coverage; using these resources does not establish compliance.",
+    "ctaUrl": "https://www.solanacenter.org/sb-1383-business",
+    "sourceUrl": "https://www.solanacenter.org/sb-1383-business",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "SB 1383 Compliance",
+        "url": "https://www.solanacenter.org/sb-1383-business"
+      }
+    ]
+  },
+  {
+    "id": "food-donation",
+    "title": "Food donation setup resources",
+    "theme": "food",
+    "audiences": [
+      "businesses",
+      "jurisdictions"
+    ],
+    "summary": "Use practical resources to set up a food donation program and coordinate surplus food recovery.",
+    "offerings": [
+      "Donation program setup steps",
+      "Food recovery requirements overview",
+      "Sample recovery agreement",
+      "English and Spanish resources"
+    ],
+    "nextStep": "Read the guides, then confirm arrangements with a food recovery organization and your city.",
+    "ctaLabel": "View donation resources",
+    "sourceTitle": "SB 1383 Food Donation",
+    "statusNote": "Resources support planning. This listing does not offer food collection or a public food drop-off.",
+    "ctaUrl": "https://www.solanacenter.org/sb1383-food-donation",
+    "sourceUrl": "https://www.solanacenter.org/sb1383-food-donation",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "SB 1383 Food Donation",
+        "url": "https://www.solanacenter.org/sb1383-food-donation"
+      }
+    ]
+  },
+  {
+    "id": "inspector-training",
+    "title": "Food recovery inspection training",
+    "theme": "food",
+    "audiences": [
+      "jurisdictions",
+      "businesses"
+    ],
+    "summary": "Learn edible food recovery requirements and inspection methods through scheduled live training and on-demand fundamentals.",
+    "offerings": [
+      "On-demand fundamentals",
+      "Live inspection training",
+      "Sector examples and demonstrations"
+    ],
+    "nextStep": "Compare the course formats and check the next live session or interest list.",
+    "ctaLabel": "Explore the training",
+    "sourceTitle": "SB 1383 Food Recovery Inspection Training",
+    "statusNote": "Live dates vary. Fundamentals alone are not the full inspection training; the full live course spans three days.",
+    "ctaUrl": "https://www.solanacenter.org/inspector-training",
+    "sourceUrl": "https://www.solanacenter.org/inspector-training",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "SB 1383 Food Recovery Inspection Training",
+        "url": "https://www.solanacenter.org/inspector-training"
+      }
+    ]
+  },
+  {
+    "id": "home-compost",
+    "title": "Home composting and Master Composter courses",
+    "theme": "organics",
+    "audiences": [
+      "residents"
+    ],
+    "summary": "Learn backyard composting, worm composting, and bokashi. Use practical guides or follow a scheduled course.",
+    "offerings": [
+      "Backyard compost guides",
+      "Worm bin setup and care",
+      "Compost troubleshooting",
+      "Five-week Master Composter courses"
+    ],
+    "nextStep": "Read the guides and check the event calendar for the next course.",
+    "ctaLabel": "Start composting",
+    "sourceTitle": "Soil Health & Compost",
+    "statusNote": "Guides are available now. Course dates vary; this is education, not a food scrap drop-off service.",
+    "ctaUrl": "https://www.solanacenter.org/soil-health-compost",
+    "sourceUrl": "https://www.solanacenter.org/soil-health-compost",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Soil Health & Compost",
+        "url": "https://www.solanacenter.org/soil-health-compost"
+      }
+    ]
+  },
+  {
+    "id": "manure-consultation",
+    "title": "Manure composting consultation",
+    "theme": "soil",
+    "audiences": [
+      "farms",
+      "residents"
+    ],
+    "summary": "Get help with manure management, compost system selection, and site-specific compost problems.",
+    "offerings": [
+      "30-minute consultation",
+      "Manure compost troubleshooting",
+      "Compost system recommendations"
+    ],
+    "nextStep": "Contact the education team to confirm eligibility and book a call.",
+    "ctaLabel": "Check consultation eligibility",
+    "sourceTitle": "Farmer Programs",
+    "statusNote": "Free consultations are for eligible residents of unincorporated San Diego County. Confirm eligibility before booking.",
+    "ctaUrl": "https://www.solanacenter.org/farmers",
+    "sourceUrl": "https://www.solanacenter.org/farmers",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Farmer Programs",
+        "url": "https://www.solanacenter.org/farmers"
+      },
+      {
+        "title": "Soil Health & Compost",
+        "url": "https://www.solanacenter.org/soil-health-compost"
+      }
+    ]
+  },
+  {
+    "id": "healthy-soils",
+    "title": "Healthy Soils grant technical assistance",
+    "theme": "soil",
+    "audiences": [
+      "farms"
+    ],
+    "summary": "Get technical help to carry out awarded Healthy Soils practices, document work, and report results.",
+    "offerings": [
+      "Practice implementation assistance",
+      "Reporting and documentation",
+      "Geotagged photo guidance",
+      "Resources for future applicants"
+    ],
+    "nextStep": "Ask about assistance for your award, or join the interest list for a future grant cycle.",
+    "ctaLabel": "Explore Healthy Soils support",
+    "sourceTitle": "Healthy Soils Program",
+    "statusNote": "The grant application window is closed. The page offers free technical assistance to awardees; it does not promise new funding.",
+    "ctaUrl": "https://www.solanacenter.org/healthy-soils-program",
+    "sourceUrl": "https://www.solanacenter.org/healthy-soils-program",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Healthy Soils Program",
+        "url": "https://www.solanacenter.org/healthy-soils-program"
+      }
+    ]
+  },
+  {
+    "id": "school-youth",
+    "title": "School lessons and lunch waste sorting",
+    "theme": "education",
+    "audiences": [
+      "jurisdictions",
+      "residents"
+    ],
+    "summary": "Bring environmental lessons and practical waste sorting support to schools. Topics include compost, watersheds, and textiles.",
+    "offerings": [
+      "K–12 environmental lessons",
+      "Lunch sorting stations and coaching",
+      "Student and staff training",
+      "Before-and-after waste audits"
+    ],
+    "nextStep": "School staff can submit the program interest form to confirm scope, dates, and cost.",
+    "ctaLabel": "Explore school programs",
+    "sourceTitle": "School Programs",
+    "statusNote": "Many offerings are free for unincorporated County schools in 2026–27. Other school costs depend on grant availability.",
+    "ctaUrl": "https://www.solanacenter.org/school-programs",
+    "sourceUrl": "https://www.solanacenter.org/school-programs",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "School Programs",
+        "url": "https://www.solanacenter.org/school-programs"
+      }
+    ]
+  },
+  {
+    "id": "lunch-learn",
+    "title": "Lunch & Learn for your team",
+    "theme": "education",
+    "audiences": [
+      "businesses",
+      "jurisdictions"
+    ],
+    "summary": "Bring practical sustainability lessons to your team in person or online.",
+    "offerings": [
+      "Food waste prevention",
+      "Composting and recycling",
+      "Office waste reduction",
+      "Textile waste prevention"
+    ],
+    "nextStep": "Choose a topic and request a quote for your group.",
+    "ctaLabel": "Explore team learning",
+    "sourceTitle": "Lunch & Learn Program",
+    "statusNote": "Presentations are arranged for groups. Confirm the format, date, and price.",
+    "ctaUrl": "https://www.solanacenter.org/lunch-and-learn",
+    "sourceUrl": "https://www.solanacenter.org/lunch-and-learn",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Lunch & Learn Program",
+        "url": "https://www.solanacenter.org/lunch-and-learn"
+      }
+    ]
+  },
+  {
+    "id": "zero-waste-events",
+    "title": "Waste reduction support for events",
+    "theme": "education",
+    "audiences": [
+      "businesses",
+      "jurisdictions",
+      "residents"
+    ],
+    "summary": "Plan waste stations, guide event visitors, and assess the waste left after your event.",
+    "offerings": [
+      "Event planning and site assessment",
+      "Sorting signs and volunteer coordination",
+      "Waste audits and reports",
+      "Environmental education booths"
+    ],
+    "nextStep": "Share your event size, site, and date to discuss services and cost.",
+    "ctaLabel": "Plan an event",
+    "sourceTitle": "Zero Waste Events",
+    "statusNote": "Service levels and fees vary. Waste diversion results depend on the event and available collection services.",
+    "ctaUrl": "https://www.solanacenter.org/zero-waste-events",
+    "sourceUrl": "https://www.solanacenter.org/zero-waste-events",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Zero Waste Events",
+        "url": "https://www.solanacenter.org/zero-waste-events"
+      }
+    ]
+  },
+  {
+    "id": "plastic-prevention",
+    "title": "Plastic waste prevention support",
+    "theme": "packaging",
+    "audiences": [
+      "jurisdictions",
+      "businesses",
+      "residents"
+    ],
+    "summary": "Reduce disposable plastic through education, business consultations, reuse, and better waste systems.",
+    "offerings": [
+      "Business waste audits",
+      "Staff education",
+      "Reuse and refill guidance",
+      "City program support"
+    ],
+    "nextStep": "Describe your waste stream and goals through the program contact form.",
+    "ctaLabel": "Explore plastic prevention",
+    "sourceTitle": "Plastic Pollution Prevention",
+    "statusNote": "Services are arranged by request. This listing does not represent producer responsibility registration or certification.",
+    "ctaUrl": "https://www.solanacenter.org/plastic-pollution-prevention",
+    "sourceUrl": "https://www.solanacenter.org/plastic-pollution-prevention",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Plastic Pollution Prevention",
+        "url": "https://www.solanacenter.org/plastic-pollution-prevention"
+      }
+    ]
+  },
+  {
+    "id": "circular-textiles",
+    "title": "Textile reuse and repair education",
+    "theme": "textiles",
+    "audiences": [
+      "jurisdictions",
+      "businesses",
+      "residents"
+    ],
+    "summary": "Help your community extend the life of clothing through swaps, mending, upcycling, and textile waste education.",
+    "offerings": [
+      "Community textile events",
+      "Clothing swaps",
+      "Natural dye workshops",
+      "Textile education for teams"
+    ],
+    "nextStep": "Request a group program or check the current textile event schedule.",
+    "ctaLabel": "Explore textile programs",
+    "sourceTitle": "Textiles",
+    "statusNote": "Education and group programs are offered by request. The next listed expo is May 8, 2027; this is not a general textile drop-off.",
+    "ctaUrl": "https://www.solanacenter.org/textiles",
+    "sourceUrl": "https://www.solanacenter.org/textiles",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Textiles",
+        "url": "https://www.solanacenter.org/textiles"
+      }
+    ]
+  },
+  {
+    "id": "water-stewardship",
+    "title": "Rainwater and watershed learning",
+    "theme": "water",
+    "audiences": [
+      "residents",
+      "farms"
+    ],
+    "summary": "Learn how to collect rainwater, reduce polluted runoff, and care for water-wise gardens and landscapes.",
+    "offerings": [
+      "Rainwater harvesting resources",
+      "Runoff prevention",
+      "Water-wise garden guidance"
+    ],
+    "nextStep": "Read the water resources and check current workshops or contact staff for help.",
+    "ctaLabel": "Explore water resources",
+    "sourceTitle": "Water Conservation",
+    "statusNote": "Education resources remain available. The Sustainability Shop is closed; check current events for any special distributions.",
+    "ctaUrl": "https://www.solanacenter.org/water-conservation",
+    "sourceUrl": "https://www.solanacenter.org/water-conservation",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Water Conservation",
+        "url": "https://www.solanacenter.org/water-conservation"
+      },
+      {
+        "title": "Current service update",
+        "url": "https://www.solanacenter.org/contact"
+      },
+      {
+        "title": "Farmer Programs: watershed workshops",
+        "url": "https://www.solanacenter.org/farmers"
+      }
+    ]
+  },
+  {
+    "id": "tool-library",
+    "title": "Tool Lending Library",
+    "theme": "soil",
+    "audiences": [
+      "residents"
+    ],
+    "summary": "Rent household and garden tools for home, school, and community garden projects in San Diego County.",
+    "offerings": [
+      "Online tool catalog",
+      "Short-term tool rentals",
+      "Garden and household tools"
+    ],
+    "nextStep": "Create a rental account, review the terms and fees, and reserve online.",
+    "ctaLabel": "Explore tool rentals",
+    "sourceTitle": "Tool Lending Library",
+    "statusNote": "Online reservation required. Friday pickup/return, noon–3 pm, at St. Andrew's Church parking lot, 890 Balour Dr, Encinitas. Rental fees apply.",
+    "ctaUrl": "https://www.solanacenter.org/tool-lending-library",
+    "sourceUrl": "https://www.solanacenter.org/tool-lending-library",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Tool Lending Library",
+        "url": "https://www.solanacenter.org/tool-lending-library"
+      },
+      {
+        "title": "Current rental location and hours",
+        "url": "https://www.solanacenter.org/contact"
+      }
+    ]
+  },
+  {
+    "id": "green-convene",
+    "title": "Green Convene reusable dishware",
+    "theme": "packaging",
+    "audiences": [
+      "residents",
+      "businesses",
+      "jurisdictions"
+    ],
+    "summary": "Rent reusable plates, bowls, drinkware, and utensils for local gatherings.",
+    "offerings": [
+      "Dishware sets",
+      "Drinkware",
+      "Reusable utensils",
+      "Two-week rentals"
+    ],
+    "nextStep": "Check stock and rental terms, then reserve the item types and quantities you need online.",
+    "ctaLabel": "Explore dishware rentals",
+    "sourceTitle": "Green Convene",
+    "statusNote": "Online reservation required. Friday pickup/return, noon–3 pm, at St. Andrew's Church parking lot, 890 Balour Dr, Encinitas. Rental and other fees apply.",
+    "ctaUrl": "https://www.solanacenter.org/green-convene",
+    "sourceUrl": "https://www.solanacenter.org/green-convene",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Green Convene",
+        "url": "https://www.solanacenter.org/green-convene"
+      },
+      {
+        "title": "Current rental location and hours",
+        "url": "https://www.solanacenter.org/contact"
+      }
+    ]
+  },
+  {
+    "id": "plastic-beach",
+    "title": "Plastic Beach subscriber drop-off",
+    "theme": "packaging",
+    "audiences": [
+      "residents"
+    ],
+    "summary": "Plastic Beach subscribers can use Solana Center’s hosted drop-off for selected plastic bags and film.",
+    "offerings": [
+      "Selected plastic bags and film",
+      "Subscriber collection system"
+    ],
+    "nextStep": "Check subscription terms, accepted materials, and current drop-off hours before you visit.",
+    "ctaLabel": "Read drop-off rules",
+    "sourceTitle": "Plastic Recycling Program – Thanks to Plastic Beach!",
+    "statusNote": "Subscribers only, at 137 N. El Camino Real, Encinitas. Materials must be clean, dry, and empty; many wrappers are excluded. Confirm hours.",
+    "ctaUrl": "https://www.solanacenter.org/blog/plastic-bag-recycling-program",
+    "sourceUrl": "https://www.solanacenter.org/blog/plastic-bag-recycling-program",
+    "checkedAt": "2026-11-07",
+    "status": "available",
+    "sources": [
+      {
+        "title": "Plastic Recycling Program – Thanks to Plastic Beach!",
+        "url": "https://www.solanacenter.org/blog/plastic-bag-recycling-program"
+      },
+      {
+        "title": "Current subscriber drop-off update",
+        "url": "https://www.solanacenter.org/contact"
+      }
+    ]
+  }
+]

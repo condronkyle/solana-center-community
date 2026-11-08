@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173347">
+  <meta name="description" content="Explore how Solana Center connects environmental education, community programs, and California policy for San Diego's residents, businesses, farms, and jurisdictions.">
+  <title>Solana Center — Local action. Lasting change.</title>
+  <link rel="icon" href="./assets/logo.png"><link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="#" aria-label="Solana Center home"><img src="./assets/logo.png" alt="Solana Center for Environmental Innovation" width="112" height="85"><span>Environmental innovation.<br><b>Rooted in community.</b></span></a>
+  <nav aria-label="Main navigation"><a href="#community">For your community</a><a href="#connected">Our approach</a><a href="#programs">Programs</a><a href="#policy">Policy to practice</a></nav>
+  <button class="button button-navy header-cta" data-open-plan>Your next steps <span class="plan-count">0</span></button>
+  <button id="menu-button" class="menu-button" aria-label="Open navigation" aria-expanded="false" aria-controls="mobile-nav">☰</button>
+</header>
+<nav id="mobile-nav" class="mobile-nav" aria-label="Mobile navigation" hidden><a href="#community">For your community</a><a href="#connected">Our approach</a><a href="#programs">Programs</a><a href="#policy">Policy to practice</a><button data-open-plan>Your next steps <span class="plan-count">0</span></button></nav>
+<div id="load-error" class="load-error" role="alert" hidden></div>
+<main id="main">
+<section class="hero section-shell">
+  <div class="hero-copy"><p class="eyebrow"><span class="sun-dot" aria-hidden="true">✳</span> SAN DIEGO ROOTS. A CIRCULAR FUTURE.</p><h1>Big change.<br>Grows <span>locally.</span></h1><p class="hero-intro">Healthy soil. Less waste. Stronger communities.<br>Solana Center connects the people, knowledge, and practical solutions that bring them together.</p><div class="hero-actions"><a class="button button-gold" href="#community">Find your place in the change <span>↗</span></a><a class="quiet-link" href="#connected">See how it connects <span>↓</span></a></div><div class="hero-since"><span class="since-number">1983</span><span>Where our story began.<br><b>Still building what comes next.</b></span></div></div>
+  <div class="hero-visual"><div class="sun-art" aria-hidden="true"><svg viewBox="0 0 180 180"><g stroke="currentColor" stroke-width="1.6"><circle cx="90" cy="90" r="35" fill="none"/><path d="M90 4v30m0 112v30M4 90h30m112 0h30M29 29l22 22m78 78 22 22M29 151l22-22m78-78 22-22M57 9l12 28m42 106 12 28M9 57l28 12m106 42 28 12M9 123l28-12m106-42 28-12M57 171l12-28m42-106 12-28"/></g></svg></div><figure><img src="./assets/community.png" alt="Neighbors learning together among raised garden beds" fetchpriority="high" width="1080" height="1080"><figcaption><span class="tiny-dot"></span> LOCAL KNOWLEDGE. SHARED POSSIBILITY.</figcaption></figure><div class="hero-sticker"><span>People.</span><span>Planet.</span><strong>Possibility.</strong><span aria-hidden="true">↗</span></div></div>
+</section>
+<section class="funding-ribbon" aria-label="New state investment"><div class="section-shell funding-ribbon-inner"><div class="funding-amount">$1M<span>STATE INVESTMENT</span></div><div><p class="eyebrow">A NEW CHAPTER · OCTOBER 2026</p><h2>Local ideas. A bigger opportunity.</h2><p id="funding-summary">New state funding will help Solana Center expand waste diversion and test models for the region.</p></div><button class="round-link" id="funding-button" aria-label="Read about the state funding"><span>Explore the investment</span><b>↗</b></button></div></section>
+
+<section id="community" class="community-section section-shell">
+  <div class="section-heading"><div><p class="eyebrow">01 / FIND YOUR WAY IN</p><h2>One community.<br>Many ways to make a difference.</h2></div><p>Start with your role. Find practical help, relevant programs, and a next step you can take.</p></div>
+  <div class="audience-tabs" role="tablist" aria-label="Choose your community role">
+    <button role="tab" aria-selected="true" data-audience="jurisdictions" id="audience-jurisdictions" aria-controls="audience-panel"><span class="audience-icon" data-icon="city"></span><span>Jurisdictions<small>Turn policy into local progress</small></span><b>↗</b></button>
+    <button role="tab" aria-selected="false" tabindex="-1" data-audience="businesses" id="audience-businesses" aria-controls="audience-panel"><span class="audience-icon" data-icon="business"></span><span>Businesses<small>Make better use of resources</small></span><b>↗</b></button>
+    <button role="tab" aria-selected="false" tabindex="-1" data-audience="farms" id="audience-farms" aria-controls="audience-panel"><span class="audience-icon" data-icon="farm"></span><span>Farms &amp; ranches<small>Build the health of your soil</small></span><b>↗</b></button>
+    <button role="tab" aria-selected="false" tabindex="-1" data-audience="residents" id="audience-residents" aria-controls="audience-panel"><span class="audience-icon" data-icon="home"></span><span>Residents<small>Bring change into everyday life</small></span><b>↗</b></button>
+  </div>
+  <div id="audience-panel" class="audience-panel" role="tabpanel" aria-labelledby="audience-jurisdictions"><div class="loading-state">Loading your community pathway…</div></div>
+</section>
+
+<section id="connected" class="connected-section"><div class="section-shell">
+  <div class="section-heading light"><div><p class="eyebrow">02 / THE CONNECTION IS THE SOLUTION</p><h2>Different resources.<br>One shared future.</h2></div><p>Explore the connections. Education and local partnerships help turn a policy, a material, or a new idea into action.</p></div>
+  <div class="connection-workbench">
+    <div class="connection-diagram" aria-label="Explore connected initiatives"><svg class="connection-lines" viewBox="0 0 620 480" aria-hidden="true"><ellipse cx="310" cy="240" rx="232" ry="173"/><path d="M310 240 116 111M310 240 310 57M310 240 503 111M310 240 503 365M310 240 310 422M310 240 116 365"/></svg><div class="connection-center"><span aria-hidden="true">☼</span><strong>Solana<br>Center</strong><small>EDUCATE · CONNECT · ACT</small></div><div id="initiative-buttons"></div></div>
+    <div id="initiative-detail" class="initiative-detail" aria-live="polite"></div>
+  </div>
+  <p class="connection-caption">An overview of how the work connects. This diagram does not represent waste deliveries between named sites.</p>
+</div></section>
+
+<section id="programs" class="programs-section section-shell">
+  <div class="section-heading"><div><p class="eyebrow">03 / KNOWLEDGE INTO PRACTICE</p><h2>Good intentions.<br>Meet real-world support.</h2></div><p>From a first compost workshop to a regional food recovery program, find the right place to begin.</p></div>
+  <div class="program-toolbar"><div class="program-search"><span aria-hidden="true">⌕</span><input type="search" id="program-search" placeholder="Search compost, textiles, training…" aria-label="Search programs"></div><label>For <select id="program-audience" aria-label="Filter programs by audience"><option value="all">Everyone</option><option value="jurisdictions">Jurisdictions</option><option value="businesses">Businesses</option><option value="farms">Farms &amp; ranches</option><option value="residents">Residents</option></select></label><button id="reset-programs" class="quiet-link">Reset filters ↺</button></div>
+  <div id="program-themes" class="theme-filters" role="group" aria-label="Filter programs by topic"></div><p id="program-count" class="result-count" role="status"></p>
+  <div id="program-grid" class="program-grid"><p class="loading-state">Loading programs…</p></div><div class="show-more-wrap"><button id="show-more" class="button button-outline" hidden>Show more programs <span>↓</span></button></div>
+</section>
+
+<section id="policy" class="policy-section"><div class="section-shell">
+  <div class="section-heading"><div><p class="eyebrow">04 / FROM POLICY TO PRACTICE</p><h2>Understand the change.<br>Be part of what comes next.</h2></div><p>California’s laws set the direction. Local education, technical assistance, and community participation help put them into practice.</p></div>
+  <div id="policy-tabs" class="policy-tabs" role="tablist" aria-label="California environmental policies"></div><div id="policy-content" role="tabpanel" class="policy-content"></div>
+  <details class="epr-explainer"><summary>What is extended producer responsibility?<span>+</span></summary><p>Extended producer responsibility (EPR) assigns producers duties for products and packaging after use, including funding systems for collection and recovery. Packaging and textiles have separate laws, organizations, and schedules. A recycling symbol or a law does not mean a local collection service accepts an item.</p><a href="https://calrecycle.ca.gov/epr/" target="_blank" rel="noopener noreferrer">CalRecycle’s EPR overview ↗</a></details>
+  <p class="policy-date">Policy snapshot checked November 7, 2026. Use the linked state sources for the latest rules and your jurisdiction for local requirements.</p>
+</div></section>
+
+<section id="story" class="story-section section-shell">
+  <div class="story-intro"><div><p class="eyebrow">05 / BUILT HERE. BUILT OVER TIME.</p><h2>Four decades of<br>finding a better way.</h2><p>From early recycling efforts to food recovery, soil health, and material reuse, Solana Center’s work has grown with the needs of the region.</p><button id="influence-button" class="quiet-link">Explore the evidence of influence <span>↗</span></button></div><div id="impact-stats" class="impact-stats"></div></div>
+  <div id="history-timeline" class="history-timeline"></div><button id="history-more" class="quiet-link" hidden>See the full timeline ↓</button>
+</section>
+
+<section class="future-section"><div class="section-shell future-inner"><div><p class="eyebrow">LET’S MAKE WHAT’S NEXT, TOGETHER.</p><h2>A stronger community<br>starts with a next step.</h2><p>Learn something. Change a process. Start a conversation.<br>Build a short list of programs to explore with Solana Center.</p><button class="button button-gold" data-open-plan>Build your next steps <span>↗</span></button><a class="future-contact" href="https://www.solanacenter.org/contact" target="_blank" rel="noopener noreferrer">Contact Solana Center ↗</a></div><div class="future-art" aria-hidden="true"><span>↗</span><p>LOCAL ACTION.<br>LASTING CHANGE.</p></div></div></section>
+<section class="service-update section-shell"><span class="update-icon" aria-hidden="true">i</span><div><strong>Before you visit</strong><p>Services changed in November 2026. The Sustainability Shop is closed. Tool, dishware, and induction-cooktop rentals require online reservations, with Friday pickup and return at St. Andrew’s Church in Encinitas. Check current arrangements before travel.</p></div><a href="https://www.solanacenter.org/contact" target="_blank" rel="noopener noreferrer">Current hours &amp; services ↗</a></section>
+</main>
+<footer class="site-footer section-shell"><div class="footer-brand"><img src="./assets/logo.png" alt="Solana Center" width="95" height="72"><p>Environmental innovation.<br>Community at the center.</p></div><div><p>Serving the San Diego region</p><a href="tel:+17604367986">(760) 436-7986 ext. 700</a><a href="https://www.solanacenter.org" target="_blank" rel="noopener noreferrer">Official Solana Center website ↗</a></div><div><button id="sources-button" class="quiet-link">Sources, dates &amp; credits ↗</button><p class="concept-note">Website concept · independently prepared.<br>Not an official Solana Center service or legal determination.</p></div></footer>
+<button id="plan-float" class="plan-float" data-open-plan hidden>Your next steps <span class="plan-count">0</span><b>↗</b></button>
+<dialog id="detail-dialog" class="detail-dialog"><button class="dialog-close" aria-label="Close details">×</button><div id="detail-content"></div></dialog>
+<dialog id="sources-dialog" class="sources-dialog"><button class="dialog-close" aria-label="Close sources">×</button><p class="eyebrow">THE EVIDENCE BEHIND THE STORY</p><h2>Clear sources.<br>Informed choices.</h2><p class="dialog-intro">This website concept uses Solana Center’s published programs and reports, official state records, and current agency guidance. Program availability and policy requirements can change.</p><div id="sources-content"></div></dialog>
+<dialog id="plan-dialog" class="plan-dialog"><button class="dialog-close" aria-label="Close next steps">×</button><p class="eyebrow">YOUR PLACE IN THE CHANGE</p><h2>A few good<br>next steps.</h2><p class="dialog-intro">Save programs to explore, then download your list. This list stays in this browser tab; it is not sent to Solana Center.</p><div id="plan-list"></div><div class="plan-actions"><button id="download-plan" class="button button-gold">Download your plan ↓</button><button id="clear-plan" class="quiet-link">Clear list</button></div><p class="small-note">Program selection is a starting point, not a booking or a compliance assessment.</p></dialog>
+<div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>

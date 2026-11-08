@@ -1,0 +1,173 @@
+{
+  "funding": {
+    "amount": 1000000,
+    "currency": "USD",
+    "bill": "AB 113",
+    "billSession": "2025–2026 Regular Session",
+    "budgetYear": "2026–2027",
+    "status": "Enacted appropriation; award announced",
+    "title": "State investment announced",
+    "summary": "California allocated $1 million to Solana Center. Senator Catherine Blakespear presented the award at Coastal Roots Farm on October 27, 2026.",
+    "announcedAt": "2026-11-04",
+    "presentedAt": "2026-10-27",
+    "enactedAt": "2026-09-18",
+    "appropriation": "AB 113, Chapter 248, Statutes of 2026; Section 143, Item 3970-101-0001, Provision 1(b).",
+    "purpose": "The appropriation supports Solana Center's Waste Diversion and Environmental Innovation Program. The award announcement identifies regional compost hubs, school food waste, textile diversion, and reusable products as planned areas of work.",
+    "limits": "This is an enacted allocation and an announced award. These sources do not establish the payment schedule, spending to date, or a budget for each activity. No funds are allocated to this website concept in the cited records.",
+    "initiatives": [
+      {
+        "title": "Regional compost hubs",
+        "summary": "Develop and support compost hubs through the Full Circle Soil Project."
+      },
+      {
+        "title": "School food waste",
+        "summary": "Work to reduce waste from school lunches."
+      },
+      {
+        "title": "Textiles",
+        "summary": "Help keep textiles out of landfills."
+      },
+      {
+        "title": "Reuse",
+        "summary": "Promote reusable products."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Senator Blakespear: $1 million award, October 27, 2026",
+        "url": "https://sd38.senate.ca.gov/news/sen-blakespear-presents-1m-check-solana-center-environmental-innovation"
+      },
+      {
+        "title": "Solana Center: grant announcement, November 4, 2026",
+        "url": "https://www.solanacenter.org/blog/million-dollar-grant-award-blakespear"
+      },
+      {
+        "title": "Governor: AB 113 signed September 18, 2026",
+        "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-legislative-update-9-18-26/"
+      },
+      {
+        "title": "California Legislature: AB 113, 2025–2026 session",
+        "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB113"
+      },
+      {
+        "title": "AB 113 chaptered text, Section 143 — LegiScan mirror",
+        "url": "https://legiscan.com/CA/text/AB113/2025"
+      }
+    ]
+  },
+  "history": [
+    {
+      "year": 1983,
+      "title": "Neighbors start Solana Recyclers",
+      "summary": "Local residents start a recycling organization and curbside collection program.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    },
+    {
+      "year": 1991,
+      "title": "Education becomes the focus",
+      "summary": "A local hauler acquires the collection program. Community education becomes the focus.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    },
+    {
+      "year": 1994,
+      "title": "The first Master Composter course",
+      "summary": "The first course takes place at San Marcos landfill.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    },
+    {
+      "year": 2003,
+      "title": "A broader mission, a new name",
+      "summary": "Solana Recyclers becomes Solana Center for Environmental Innovation.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    },
+    {
+      "year": 2014,
+      "title": "Food scraps return to the farm",
+      "summary": "Solana Center pilots composting at Coastal Roots Farm with farm and restaurant materials.",
+      "sourceUrl": "https://sd38.senate.ca.gov/news/sen-blakespear-presents-1m-check-solana-center-environmental-innovation",
+      "sourceTitle": "Senator Blakespear: Coastal Roots Farm pilot history"
+    },
+    {
+      "year": 2016,
+      "title": "California recognizes the compost model",
+      "summary": "The restaurant-and-farm compost model earns a Governor's Environmental and Economic Leadership Award.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    },
+    {
+      "year": 2023,
+      "title": "National recognition for organics diversion",
+      "summary": "The U.S. Composting Council names Solana Center its Organics Diversion Program of the Year.",
+      "sourceUrl": "https://www.solanacenter.org/history",
+      "sourceTitle": "Solana Center: organizational history"
+    }
+  ],
+  "impact": [
+    {
+      "value": "8,000",
+      "label": "students educated",
+      "period": "2025–2026",
+      "note": "Reported by Solana Center. Period follows the PDF cover; the impact webpage retains an older year label.",
+      "sourceUrl": "https://www.solanacenter.org/s/SCEI-25-26-Impact-Report-Trifold-Print-FINAL.pdf",
+      "sourceTitle": "Solana Center 2025–2026 Impact Report, page 1"
+    },
+    {
+      "value": "51",
+      "label": "California cities trained to reduce food waste",
+      "period": "2025–2026",
+      "note": "Reported by Solana Center. This counts cities, not people or completed compliance findings.",
+      "sourceUrl": "https://www.solanacenter.org/s/SCEI-25-26-Impact-Report-Trifold-Print-FINAL.pdf",
+      "sourceTitle": "Solana Center 2025–2026 Impact Report, page 1"
+    },
+    {
+      "value": "400",
+      "label": "discounted rain barrels distributed",
+      "period": "2025–2026",
+      "note": "Reported by Solana Center. Distribution is an output, not a measured water-savings total.",
+      "sourceUrl": "https://www.solanacenter.org/s/SCEI-25-26-Impact-Report-Trifold-Print-FINAL.pdf",
+      "sourceTitle": "Solana Center 2025–2026 Impact Report, page 2"
+    },
+    {
+      "value": "34",
+      "label": "people trained as Master Composters",
+      "period": "2025–2026",
+      "note": "Reported by Solana Center in its 2025–2026 impact report. This training count does not indicate that the former Food Cycle drop-off program reopened.",
+      "sourceUrl": "https://www.solanacenter.org/s/SCEI-25-26-Impact-Report-Trifold-Print-FINAL.pdf",
+      "sourceTitle": "Solana Center 2025–2026 Impact Report, page 2"
+    }
+  ],
+  "influence": [
+    {
+      "title": "Support for local composting rules",
+      "summary": "Solana Center supported the County's 2022 organic-materials ordinance update through pilot projects and public input. Senator Blakespear recognized Jessica Toth's role in the revision in 2024.",
+      "evidenceType": "Documented advocacy; official recognition",
+      "sourceUrl": "https://sd38.senate.ca.gov/news/news-senator-blakespear-march-26-2024",
+      "sourceTitle": "Senator Blakespear: 2024 Woman Who Inspires recognition",
+      "additionalSources": [
+        {
+          "title": "Solana Center: September 14, 2022 ordinance advocacy account",
+          "url": "https://www.solanacenter.org/blog/ordinance-updates-organic-waste-processing"
+        }
+      ]
+    },
+    {
+      "title": "Help cities put policy into practice",
+      "summary": "A February 2020 Encinitas staff report documents a contract with Solana Center to support the City's Plastics Initiative through outreach, education, and work with affected groups.",
+      "evidenceType": "City staff report; contracted implementation",
+      "sourceUrl": "https://encinitas.granicus.com/MetaViewer.php?clip_id=2090&meta_id=108629",
+      "sourceTitle": "Encinitas City Council, February 26, 2020, Item 10A, pages 3–4"
+    },
+    {
+      "title": "Share knowledge across the region",
+      "summary": "County meeting minutes from August 2024 record Jessica Toth's proposal to share municipal ordinance updates, pilot projects, and grant information through an accessible database.",
+      "evidenceType": "County meeting minutes; proposal recorded",
+      "sourceUrl": "https://www.sandiegocounty.gov/content/dam/sdc/dpw/SOLID_WASTE_PLANNING_and_RECYCLING/IWMMeetings/2024/Aug%2024%20Organics%20Recycling%20WG%20Minutes%208.1.24.pdf",
+      "sourceTitle": "County Organics Recycling Working Group, August 1, 2024, page 3"
+    }
+  ],
+  "checkedAt": "2026-11-07"
+}

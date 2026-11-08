@@ -1,0 +1,276 @@
+[
+  {
+    "id": "sb1383",
+    "bill": "SB 1383 (Lara, 2016)",
+    "title": "Keep organics out of landfills",
+    "topic": "organics",
+    "status": "active",
+    "statusLabel": "In effect",
+    "summary": "California requires local organics recycling programs and recovery of edible food from specified businesses. Solana Center helps jurisdictions and businesses with education, inspections, records, and technical support.",
+    "who": "CalRecycle oversees implementation. Local jurisdictions run and enforce programs. Residents and businesses follow local collection rules; designated food businesses have food recovery duties.",
+    "solanaRole": "Solana Center documents SB 1383 education, business assistance, food recovery inspections, capacity planning, and reporting support for local jurisdictions.",
+    "roleStatus": "documented",
+    "milestones": [
+      {
+        "date": "2016-09-19",
+        "label": "Law enacted",
+        "detail": "Governor Brown signed SB 1383, Chapter 395, Statutes of 2016.",
+        "kind": "enacted"
+      },
+      {
+        "date": "2022-01-01",
+        "label": "Implementation requirements begin",
+        "detail": "The organics regulations took effect. Jurisdictions began required programs and education.",
+        "kind": "effective"
+      },
+      {
+        "date": "2024-01-01",
+        "label": "Local enforcement begins",
+        "detail": "Jurisdictions had to begin enforcement by this date, with notice and time to correct violations before continuing violations receive penalties.",
+        "kind": "deadline"
+      },
+      {
+        "date": "2025",
+        "label": "Statewide organics target",
+        "detail": "Target: 75% less organic waste disposal than in 2014. This is a statutory target, not a claim that it was met.",
+        "kind": "target"
+      },
+      {
+        "date": "2025",
+        "label": "Statewide food recovery target",
+        "detail": "Target: recover at least 20% of edible food otherwise disposed for people to eat. The 2014 baseline applies to disposal reduction, not this food recovery target.",
+        "kind": "target"
+      }
+    ],
+    "actions": {
+      "jurisdictions": [
+        "Review collection, food recovery capacity, education, procurement, and enforcement duties.",
+        "Ask Solana Center about inspection, training, and reporting support."
+      ],
+      "businesses": [
+        "Confirm local organics service and train staff on accepted materials.",
+        "If your business is a mandated food donor, arrange recovery agreements and keep required records."
+      ],
+      "farms": [
+        "Ask your jurisdiction about compost-use partnerships and local organics rules.",
+        "Keep edible food recovery for people separate from animal feed and composting."
+      ],
+      "residents": [
+        "Use your local organics collection instructions and prevent food waste.",
+        "Learn home composting through Solana Center; check how it fits your local service rules."
+      ]
+    },
+    "sources": [
+      {
+        "title": "California Legislature: SB 1383 chaptered law",
+        "url": "https://www.leginfo.ca.gov/pub/15-16/bill/sen/sb_1351-1400/sb_1383_bill_20160919_chaptered.html"
+      },
+      {
+        "title": "CalRecycle: organics implementation",
+        "url": "https://calrecycle.ca.gov/organics/slcp/"
+      },
+      {
+        "title": "CalRecycle: local enforcement dates",
+        "url": "https://calrecycle.ca.gov/organics/slcp/enforcement/jurisdiction/"
+      },
+      {
+        "title": "CalRecycle: food donor duties",
+        "url": "https://calrecycle.ca.gov/organics/slcp/foodrecovery/donors/"
+      },
+      {
+        "title": "CalRecycle: food recovery questions and baselines",
+        "url": "https://calrecycle.ca.gov/organics/slcp/faq/foodrecovery/"
+      },
+      {
+        "title": "CalRecycle: local collection options and exceptions",
+        "url": "https://calrecycle.ca.gov/organics/slcp/collection/"
+      },
+      {
+        "title": "CalRecycle: recycled organics procurement",
+        "url": "https://calrecycle.ca.gov/organics/slcp/procurement/"
+      },
+      {
+        "title": "Solana Center: government services",
+        "url": "https://www.solanacenter.org/government-programs"
+      }
+    ],
+    "checkedAt": "2026-11-07",
+    "caveat": "This covers the organics and food recovery program. Waivers, exemptions, and local service rules apply. Farm participation is site-specific; this is not a claim that every farm must accept food waste or compost. Solana Center support does not transfer a jurisdiction's legal duties."
+  },
+  {
+    "id": "sb54",
+    "bill": "SB 54 (Allen, 2022)",
+    "title": "Reduce packaging waste at the source",
+    "topic": "packaging",
+    "status": "implementing",
+    "statusLabel": "Rules in effect · plan under review",
+    "summary": "Packaging producers fund and organize waste prevention and recovery under California's producer responsibility system. Rules are in effect. Circular Action Alliance's first plan is under state review; the law sets binding targets for 2032.",
+    "who": "CalRecycle oversees the program. Circular Action Alliance is the approved producer responsibility organization. Covered producers fund compliance; jurisdictions and recycling providers have collection duties and exemption routes.",
+    "solanaRole": "Solana Center explains SB 54 and offers plastic-waste education, business consultations, waste audits, staff training, and support for local governments.",
+    "roleStatus": "documented",
+    "milestones": [
+      {
+        "date": "2022-06-30",
+        "label": "Law enacted",
+        "detail": "Governor Newsom signed the Plastic Pollution Prevention and Packaging Producer Responsibility Act.",
+        "kind": "enacted"
+      },
+      {
+        "date": "2026-05-01",
+        "label": "Permanent rules take effect",
+        "detail": "The Office of Administrative Law approved the regulations; they took effect upon filing the same day.",
+        "kind": "effective"
+      },
+      {
+        "date": "2026-11-13",
+        "label": "First plan comment deadline",
+        "detail": "CalRecycle received Circular Action Alliance's plan on October 13, 2026. Public comments close November 13; receipt does not mean approval.",
+        "kind": "deadline"
+      },
+      {
+        "date": "2027-01-01",
+        "label": "First source reduction target",
+        "detail": "The PRO's statewide target is 10% source reduction, including at least 2% through reuse or refill, against the 2023 baseline.",
+        "kind": "target"
+      },
+      {
+        "date": "2032-01-01",
+        "label": "2032 packaging requirements",
+        "detail": "100% of covered material must be recyclable or compostable. Plastic covered material must reach a 65% recycling rate and a 25% reduction by weight and by plastic component count against 2023.",
+        "kind": "target"
+      }
+    ],
+    "actions": {
+      "jurisdictions": [
+        "Review covered-material collection requirements with your recycling provider and the PRO.",
+        "Use CalRecycle's process for any needed collection extension or exemption."
+      ],
+      "businesses": [
+        "Check covered-producer status, exclusions, reporting, and participation requirements with CalRecycle.",
+        "Ask Solana Center about reducing single-use materials and training staff."
+      ],
+      "farms": [
+        "Check covered-producer status for branded produce packaging.",
+        "Review reusable or refillable packaging options that suit your products."
+      ],
+      "residents": [
+        "Choose reuse and refill where available.",
+        "Follow local sorting rules; a product label alone does not confirm local collection."
+      ]
+    },
+    "sources": [
+      {
+        "title": "CalRecycle: SB 54 status and plan review",
+        "url": "https://calrecycle.ca.gov/packaging/packaging-epr/"
+      },
+      {
+        "title": "CalRecycle: final rules and effective date",
+        "url": "https://calrecycle.ca.gov/laws/rulemaking/sb54regulations/"
+      },
+      {
+        "title": "CalRecycle: exact source reduction requirements",
+        "url": "https://calrecycle.ca.gov/packaging/packaging-epr/sourcereduction/"
+      },
+      {
+        "title": "CalRecycle: producer guidance",
+        "url": "https://calrecycle.ca.gov/packaging/packaging-epr/producerguidance/"
+      },
+      {
+        "title": "CalRecycle: local government and service provider guidance",
+        "url": "https://calrecycle.ca.gov/packaging/packaging-epr/ljandrsp/"
+      },
+      {
+        "title": "Solana Center: plastic pollution prevention",
+        "url": "https://www.solanacenter.org/plastic-pollution-prevention"
+      }
+    ],
+    "checkedAt": "2026-11-07",
+    "caveat": "The reduction targets apply collectively through the PRO plan; each producer does not independently owe a 25% cut. The 65% recycling target applies to plastic covered material, not all packaging. Solana's documented role is education and local waste-reduction support, not PRO administration."
+  },
+  {
+    "id": "sb707",
+    "bill": "SB 707 (Newman, 2024)",
+    "title": "Build a system for textile reuse and recovery",
+    "topic": "textiles",
+    "status": "developing",
+    "statusLabel": "Law enacted · rules in development",
+    "summary": "California is building producer-funded recovery for covered apparel and textiles. Landbell USA is the approved producer responsibility organization. State rules and the collection plan are still being developed; current Solana Center programs focus on education, reuse, and repair.",
+    "who": "CalRecycle writes and oversees the rules. Covered producers must join the approved PRO, Landbell USA, which prepares the needs assessment and program plan. CalRecycle reports its approval in March 2026.",
+    "solanaRole": "Solana Center documents textile education, clothing swaps, mending and upcycling events, and presentations for communities, local governments, and businesses. Its textile page explains SB 707.",
+    "roleStatus": "documented",
+    "milestones": [
+      {
+        "date": "2024-09-28",
+        "label": "Law enacted",
+        "detail": "Governor Newsom signed the Responsible Textile Recovery Act of 2024.",
+        "kind": "enacted"
+      },
+      {
+        "date": "2026-07-01",
+        "label": "Producer join deadline",
+        "detail": "Covered producers had to join the approved PRO by this date. This was not the opening date for a statewide collection service.",
+        "kind": "deadline"
+      },
+      {
+        "date": "2026-11-12",
+        "label": "Next public rules workshop",
+        "detail": "CalRecycle scheduled an informal workshop on producer plans, contingency plans, plan termination, and annual reports.",
+        "kind": "scheduled"
+      },
+      {
+        "date": "2027-03-01",
+        "label": "Initial needs assessment due",
+        "detail": "The PRO must submit its initial statewide needs assessment to CalRecycle.",
+        "kind": "deadline"
+      },
+      {
+        "date": "2028-07-01",
+        "label": "Earliest rules effective date",
+        "detail": "Regulations may take effect no earlier than this date. It is not a confirmed collection launch date.",
+        "kind": "scheduled"
+      }
+    ],
+    "actions": {
+      "jurisdictions": [
+        "Share local reuse, repair, and collection needs during program development.",
+        "Ask Solana Center about textile education or a community event."
+      ],
+      "businesses": [
+        "Check whether you are a covered producer and confirm PRO participation duties.",
+        "Use repair, reuse, and staff education while the state program develops."
+      ],
+      "farms": [
+        "Use repair and reuse options for ordinary clothing and linens.",
+        "Check product coverage if your business sells apparel or textile goods."
+      ],
+      "residents": [
+        "Repair, swap, or donate suitable textiles through existing services.",
+        "Check each service's accepted items; future statewide collection is still being developed."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Governor of California: September 28, 2024 signing record",
+        "url": "https://www.gov.ca.gov/2024/09/28/governor-newsom-issues-legislative-update-9-28-24/"
+      },
+      {
+        "title": "CalRecycle: textile program status and milestones",
+        "url": "https://calrecycle.ca.gov/epr/textiles/"
+      },
+      {
+        "title": "CalRecycle: PRO requirements",
+        "url": "https://calrecycle.ca.gov/epr/textiles/textileproapp/"
+      },
+      {
+        "title": "CalRecycle: April 2026 needs assessment workshop",
+        "url": "https://www2.calrecycle.ca.gov/PublicNotices/Documents/18456"
+      },
+      {
+        "title": "Solana Center: textile programs",
+        "url": "https://www.solanacenter.org/textiles"
+      }
+    ],
+    "checkedAt": "2026-11-07",
+    "caveat": "This is SB 707 from 2024, not the 2025 open-meetings law with the same number. Solana's education is documented. A formal PRO partnership or future collection-operator role is not established by these sources. Existing local events are separate from the future statewide program."
+  }
+]
